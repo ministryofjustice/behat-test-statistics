@@ -9,8 +9,8 @@
     "type": "library",
     "require": {
         "php": ">=7.4.3",
-        "behat/behat": "3.8.1",
-        "nesbot/carbon": "2.40"
+        "behat/behat": "^3.8.1",
+        "nesbot/carbon": "^2.40"
     },
     "license": "MIT",
     "authors": [
