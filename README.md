@@ -89,6 +89,9 @@ class BaseFeatureContext extends MinistryOfJustice\BehatContexts\TestStatisticsC
 {}
 ```
 
+Once the feature context is plugged into your test suites it will automatically flag any slow running suites or steps at the end of the test run:
+
+![Behat test output](./img/output.png)
 
 <!-- CONTRIBUTING -->
 ## Contributing
